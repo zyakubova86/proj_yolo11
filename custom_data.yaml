@@ -1,0 +1,5 @@
+train: D:\proj_v11\ds\ds8_1_3\train\images
+val: D:\proj_v11\ds\ds8_1_3\valid\images
+
+nc: 1
+names: ['gilam']
